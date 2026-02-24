@@ -1,0 +1,6 @@
+{
+  "name": "super-pio-backend",
+  "version": "1.0.0",
+  "description": "Super Pio Pi Network payment backend",
+  "private": true
+}
